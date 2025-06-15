@@ -1,6 +1,4 @@
-# Resilient Anomaly Detection in Fiber-Optic Networks: A
-Machine Learning Framework for Multi-Threat Identification
-Using State-of-Polarization Monitoring
+# Resilient Anomaly Detection in Fiber-Optic Networks: A Machine Learning Framework for Multi-Threat Identification Using State-of-Polarization Monitoring
 
 <p>
   We present a thorough machine-learning framework based on real-time state 1
